@@ -1,3 +1,3 @@
 # GitHub_Demo
-I am Learning Github . \n
+I am Learning Github . <br>
 Author : Sachin Kushwah Ji
