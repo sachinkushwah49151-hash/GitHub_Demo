@@ -1,3 +1,3 @@
 # GitHub_Demo
-I am Learning Github .
-Author : Sachi Kushwah Ji
+I am Learning Github . \n
+Author : Sachin Kushwah Ji
